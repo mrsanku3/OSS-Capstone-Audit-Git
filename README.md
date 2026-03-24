@@ -30,7 +30,7 @@ script5: A creative script reflecting on open-source freedom (Script 5).
 How to Run the Scripts
 All scripts are designed for a Linux environment. To run any script, use:
 
-Bash Command
+Bash Command :                                                                      
 chmod +x script_name.sh
 ./script_name.sh
 chmod +x script_name.sh
