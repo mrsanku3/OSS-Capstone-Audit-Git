@@ -4,7 +4,7 @@ Capstone project for OSS NGMC Course - Open Source Audit of Git.
 The Open Source Audit: Git
 Course: Open Source Software (NGMC)
 
-Student: Sankalp Tripathi
+Name: Sankalp Tripathi                                                                              
 Reg No: 24BCY10005
 
 Project Overview
